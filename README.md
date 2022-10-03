@@ -1,8 +1,8 @@
 # Angular Gulp Boilerplate
 
 [![NpmVersion](https://img.shields.io/npm/v/angular-gulp-boilerplate.svg)](https://www.npmjs.com/package/angular-gulp-boilerplate)
-[![CI](https://github.com/loginov-rocks/Angular-Gulp-Boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/loginov-rocks/Angular-Gulp-Boilerplate/actions/workflows/ci.yml)
-[![CD](https://github.com/loginov-rocks/Angular-Gulp-Boilerplate/actions/workflows/cd.yml/badge.svg)](https://github.com/loginov-rocks/Angular-Gulp-Boilerplate/actions/workflows/cd.yml)
+[![CI](https://github.com/1oginov/Angular-Gulp-Boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/1oginov/Angular-Gulp-Boilerplate/actions/workflows/ci.yml)
+[![CD](https://github.com/1oginov/Angular-Gulp-Boilerplate/actions/workflows/cd.yml/badge.svg)](https://github.com/1oginov/Angular-Gulp-Boilerplate/actions/workflows/cd.yml)
 
 Clean AngularJS boilerplate powered by Gulp tasks and designed to automate your daily development routine such as
 concatenation, obfuscation, minimisation and injection of templates, scripts, styles, translations and more.
@@ -10,22 +10,22 @@ concatenation, obfuscation, minimisation and injection of templates, scripts, st
 As a result of using this boilerplate, your entire AngularJS project will be delivered to end users in a small bunch of
 files: `index.html`, scripts and styles split to app-related and vendor-related, translations and source maps.
 
-![Teaser](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/teaser.png)
+![Teaser](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/teaser.png)
 
 ## What you will get?
 
-[![AngularJS](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/angular.png)](https://angularjs.org)
-[![npm](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/npm.png)](https://www.npmjs.com)
-[![Gulp](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/gulp.png)](https://gulpjs.com)
-[![Bower](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/bower.png)](https://bower.io)
-[![Browsersync](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/browsersync.png)](https://browsersync.io)
-[![Babel](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/babel.png)](https://babeljs.io)
-[![ESLint](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/eslint.png)](https://eslint.org)
-[![Sass](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/sass.png)](https://sass-lang.com)
-[![Autoprefixer](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/autoprefixer.png)](https://autoprefixer.github.io)
-[![Normalize.css](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/normalize.png)](https://necolas.github.io/normalize.css)
-[![UI-Router](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/ui-router.png)](https://ui-router.github.io)
-[![angular-translate](https://raw.githubusercontent.com/loginov-rocks/Angular-Gulp-Boilerplate/main/docs/angular-translate.png)](https://angular-translate.github.io)
+[![AngularJS](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/angular.png)](https://angularjs.org)
+[![npm](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/npm.png)](https://www.npmjs.com)
+[![Gulp](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/gulp.png)](https://gulpjs.com)
+[![Bower](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/bower.png)](https://bower.io)
+[![Browsersync](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/browsersync.png)](https://browsersync.io)
+[![Babel](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/babel.png)](https://babeljs.io)
+[![ESLint](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/eslint.png)](https://eslint.org)
+[![Sass](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/sass.png)](https://sass-lang.com)
+[![Autoprefixer](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/autoprefixer.png)](https://autoprefixer.github.io)
+[![Normalize.css](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/normalize.png)](https://necolas.github.io/normalize.css)
+[![UI-Router](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/ui-router.png)](https://ui-router.github.io)
+[![angular-translate](https://raw.githubusercontent.com/1oginov/Angular-Gulp-Boilerplate/main/docs/angular-translate.png)](https://angular-translate.github.io)
 
 [AngularJS](https://angularjs.org) with [UI-Router](https://ui-router.github.io) to manage routing, preconfigured
 [angular-translate](https://angular-translate.github.io) and helper packages to implement native dynamic localization
@@ -70,7 +70,7 @@ npm install -g bower gulp-cli
 Clone repository from GitHub:
 
 ```sh
-git clone https://github.com/loginov-rocks/Angular-Gulp-Boilerplate.git MyProject
+git clone https://github.com/1oginov/Angular-Gulp-Boilerplate.git MyProject
 ```
 
 Jump into `MyProject` directory and install dependencies from npm registry:
